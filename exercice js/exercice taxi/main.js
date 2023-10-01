@@ -76,15 +76,6 @@ function getRandomItem(arr){
 
 }
 
-
-
-
-
-
-
-
-
-
 let john = new Personnage("John", 10)
 john.trajet(music)
 
